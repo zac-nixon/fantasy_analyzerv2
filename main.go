@@ -181,7 +181,6 @@ func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
 			sort.Sort(candidates)
 			candidates = candidates[:100]
 		}
-		break
 	}
 
 	return candidates
