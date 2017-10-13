@@ -1,0 +1,6702 @@
+[
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 356.92996673436454,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 356.9299666648521,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 356.9299666648518,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 356.0910778454757,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 356.09107777596324,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 356.09107777596296,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 354.9841334010312,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49400,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 354.98413333151876,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49400,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 354.9841333315185,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49400,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 353.3336715206593,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Michael Crabtree",
+            "opposition": "LAC",
+            "position": "WR",
+            "projectedPoints": 28.522814052235322,
+            "salary": 5800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 353.3336714754916,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Michael Crabtree",
+            "opposition": "LAC",
+            "position": "WR",
+            "projectedPoints": 28.522814052235322,
+            "salary": 5800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 353.33367147549114,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Michael Crabtree",
+            "opposition": "LAC",
+            "position": "WR",
+            "projectedPoints": 28.522814052235322,
+            "salary": 5800
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 352.97996673436455,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 352.9799666648521,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 352.9799666648518,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.7428621036702,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "George Kittle",
+            "opposition": "@Was",
+            "position": "TE",
+            "projectedPoints": 17.846401498147237,
+            "salary": 3400
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.7428620341577,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "George Kittle",
+            "opposition": "@Was",
+            "position": "TE",
+            "projectedPoints": 17.846401498147237,
+            "salary": 3400
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.74286203415744,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "George Kittle",
+            "opposition": "@Was",
+            "position": "TE",
+            "projectedPoints": 17.846401498147237,
+            "salary": 3400
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.4283539719748,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Austin Hooper",
+            "opposition": "Mia",
+            "position": "TE",
+            "projectedPoints": 17.53189336645186,
+            "salary": 3500
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.42835390246233,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Austin Hooper",
+            "opposition": "Mia",
+            "position": "TE",
+            "projectedPoints": 17.53189336645186,
+            "salary": 3500
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.42835390246205,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Austin Hooper",
+            "opposition": "Mia",
+            "position": "TE",
+            "projectedPoints": 17.53189336645186,
+            "salary": 3500
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.31020733468455,
+        "QB": {
+            "name": "Deshaun Watson",
+            "opposition": "Cle",
+            "position": "QB",
+            "projectedPoints": 47.95729964791257,
+            "salary": 6700
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.3102072702035,
+        "QB": {
+            "name": "Deshaun Watson",
+            "opposition": "Cle",
+            "position": "QB",
+            "projectedPoints": 47.95729964791257,
+            "salary": 6700
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.3102072702031,
+        "QB": {
+            "name": "Deshaun Watson",
+            "opposition": "Cle",
+            "position": "QB",
+            "projectedPoints": 47.95729964791257,
+            "salary": 6700
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.1248832366661,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.12488316715365,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.12488316715337,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.05232038899965,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "Coby Fleener",
+            "opposition": "Det",
+            "position": "TE",
+            "projectedPoints": 16.048915339032224,
+            "salary": 3200
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.0523203194872,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "Coby Fleener",
+            "opposition": "Det",
+            "position": "TE",
+            "projectedPoints": 16.048915339032224,
+            "salary": 3200
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 351.0523203194869,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "Coby Fleener",
+            "opposition": "Det",
+            "position": "TE",
+            "projectedPoints": 16.048915339032224,
+            "salary": 3200
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 350.84921341330926,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Davante Adams",
+            "opposition": "@Min",
+            "position": "WR",
+            "projectedPoints": 26.03835592447512,
+            "salary": 5700
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 350.8492133928991,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Davante Adams",
+            "opposition": "@Min",
+            "position": "WR",
+            "projectedPoints": 26.03835592447512,
+            "salary": 5700
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 350.8492133928988,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "Davante Adams",
+            "opposition": "@Min",
+            "position": "WR",
+            "projectedPoints": 26.03835592447512,
+            "salary": 5700
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 350.28599434777726,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 350.2859942782648,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 350.2859942782645,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 350.2408478021868,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Jesse James",
+            "opposition": "@KC",
+            "position": "TE",
+            "projectedPoints": 15.237442752219422,
+            "salary": 3100
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 350.24084773267435,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Jesse James",
+            "opposition": "@KC",
+            "position": "TE",
+            "projectedPoints": 15.237442752219422,
+            "salary": 3100
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 350.24084773267407,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Jesse James",
+            "opposition": "@KC",
+            "position": "TE",
+            "projectedPoints": 15.237442752219422,
+            "salary": 3100
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.94537594455517,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49600,
+        "TE": {
+            "name": "Coby Fleener",
+            "opposition": "Det",
+            "position": "TE",
+            "projectedPoints": 16.048915339032224,
+            "salary": 3200
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.9453758750427,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49600,
+        "TE": {
+            "name": "Coby Fleener",
+            "opposition": "Det",
+            "position": "TE",
+            "projectedPoints": 16.048915339032224,
+            "salary": 3200
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.94537587504243,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49600,
+        "TE": {
+            "name": "Coby Fleener",
+            "opposition": "Det",
+            "position": "TE",
+            "projectedPoints": 16.048915339032224,
+            "salary": 3200
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 349.41433946409074,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Michael Crabtree",
+            "opposition": "LAC",
+            "position": "WR",
+            "projectedPoints": 28.522814052235322,
+            "salary": 5800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.1790499033328,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49400,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.17904983382033,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49400,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.17904983382005,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49400,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.1339033577423,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49500,
+        "TE": {
+            "name": "Jesse James",
+            "opposition": "@KC",
+            "position": "TE",
+            "projectedPoints": 15.237442752219422,
+            "salary": 3100
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.1339032882299,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49500,
+        "TE": {
+            "name": "Jesse James",
+            "opposition": "@KC",
+            "position": "TE",
+            "projectedPoints": 15.237442752219422,
+            "salary": 3100
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.1339032882296,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49500,
+        "TE": {
+            "name": "Jesse James",
+            "opposition": "@KC",
+            "position": "TE",
+            "projectedPoints": 15.237442752219422,
+            "salary": 3100
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.10400767160814,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "Martellus Bennett",
+            "opposition": "@Min",
+            "position": "TE",
+            "projectedPoints": 15.207547066085203,
+            "salary": 3600
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.1040076020957,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "Martellus Bennett",
+            "opposition": "@Min",
+            "position": "TE",
+            "projectedPoints": 15.207547066085203,
+            "salary": 3600
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.1040076020954,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "Martellus Bennett",
+            "opposition": "@Min",
+            "position": "TE",
+            "projectedPoints": 15.207547066085203,
+            "salary": 3600
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 349.0375279941185,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49400,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.0184609373579,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Zach Miller",
+            "opposition": "@Bal",
+            "position": "TE",
+            "projectedPoints": 13.17616699850161,
+            "salary": 2900
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.0184608678454,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Zach Miller",
+            "opposition": "@Bal",
+            "position": "TE",
+            "projectedPoints": 13.17616699850161,
+            "salary": 2900
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 349.01846086784514,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Zach Miller",
+            "opposition": "@Bal",
+            "position": "TE",
+            "projectedPoints": 13.17616699850161,
+            "salary": 2900
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 348.73619689489277,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "Cameron Brate",
+            "opposition": "@Ari",
+            "position": "TE",
+            "projectedPoints": 22.7321750296159,
+            "salary": 3900
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 348.19863910522963,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49200,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 348.179572048469,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "Zach Miller",
+            "opposition": "@Bal",
+            "position": "TE",
+            "projectedPoints": 13.17616699850161,
+            "salary": 2900
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 348.1795719789566,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "Zach Miller",
+            "opposition": "@Bal",
+            "position": "TE",
+            "projectedPoints": 13.17616699850161,
+            "salary": 2900
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 348.1795719789563,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "Zach Miller",
+            "opposition": "@Bal",
+            "position": "TE",
+            "projectedPoints": 13.17616699850161,
+            "salary": 2900
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 348.00411541103824,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR2": {
+            "name": "Danny Amendola",
+            "opposition": "@NYJ",
+            "position": "WR",
+            "projectedPoints": 23.193257904854946,
+            "salary": 5600
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 348.00411537328057,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "Danny Amendola",
+            "opposition": "@NYJ",
+            "position": "WR",
+            "projectedPoints": 23.193257904854946,
+            "salary": 5600
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 348.004115373279,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Danny Amendola",
+            "opposition": "@NYJ",
+            "position": "WR",
+            "projectedPoints": 23.193257904854946,
+            "salary": 5600
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.9412092778885,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Coby Fleener",
+            "opposition": "Det",
+            "position": "TE",
+            "projectedPoints": 16.048915339032224,
+            "salary": 3200
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.94120920837605,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Coby Fleener",
+            "opposition": "Det",
+            "position": "TE",
+            "projectedPoints": 16.048915339032224,
+            "salary": 3200
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.94120920837577,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Coby Fleener",
+            "opposition": "Det",
+            "position": "TE",
+            "projectedPoints": 16.048915339032224,
+            "salary": 3200
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.5285880229609,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Michael Crabtree",
+            "opposition": "LAC",
+            "position": "WR",
+            "projectedPoints": 28.522814052235322,
+            "salary": 5800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.52858797779317,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Michael Crabtree",
+            "opposition": "LAC",
+            "position": "WR",
+            "projectedPoints": 28.522814052235322,
+            "salary": 5800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.5285879777927,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Michael Crabtree",
+            "opposition": "LAC",
+            "position": "WR",
+            "projectedPoints": 28.522814052235322,
+            "salary": 5800
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 347.3870661137468,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Michael Crabtree",
+            "opposition": "LAC",
+            "position": "WR",
+            "projectedPoints": 28.522814052235322,
+            "salary": 5800
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.1748832366661,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.17488316715367,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.1748831671534,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.12973669107566,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "Jesse James",
+            "opposition": "@KC",
+            "position": "TE",
+            "projectedPoints": 15.237442752219422,
+            "salary": 3100
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.1297366215632,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "Jesse James",
+            "opposition": "@KC",
+            "position": "TE",
+            "projectedPoints": 15.237442752219422,
+            "salary": 3100
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.1297366215629,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "Jesse James",
+            "opposition": "@KC",
+            "position": "TE",
+            "projectedPoints": 15.237442752219422,
+            "salary": 3100
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 347.09169466078515,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 48800,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.07262760402455,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49300,
+        "TE": {
+            "name": "Zach Miller",
+            "opposition": "@Bal",
+            "position": "TE",
+            "projectedPoints": 13.17616699850161,
+            "salary": 2900
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.0726275345121,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49300,
+        "TE": {
+            "name": "Zach Miller",
+            "opposition": "@Bal",
+            "position": "TE",
+            "projectedPoints": 13.17616699850161,
+            "salary": 2900
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.0726275345118,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49300,
+        "TE": {
+            "name": "Zach Miller",
+            "opposition": "@Bal",
+            "position": "TE",
+            "projectedPoints": 13.17616699850161,
+            "salary": 2900
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.0014851122077,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "Benjamin Watson",
+            "opposition": "Chi",
+            "position": "TE",
+            "projectedPoints": 13.105024506684794,
+            "salary": 3300
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.00148504269526,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "Benjamin Watson",
+            "opposition": "Chi",
+            "position": "TE",
+            "projectedPoints": 13.105024506684794,
+            "salary": 3300
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 347.001485042695,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "Benjamin Watson",
+            "opposition": "Chi",
+            "position": "TE",
+            "projectedPoints": 13.105024506684794,
+            "salary": 3300
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 346.92988133633054,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Davante Adams",
+            "opposition": "@Min",
+            "position": "WR",
+            "projectedPoints": 26.03835592447512,
+            "salary": 5700
+        }
+    },
+    {
+        "DST": {
+            "name": "Cle",
+            "opposition": "@Hou",
+            "position": "DST",
+            "projectedPoints": 6.016666666666666,
+            "salary": 2300
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 346.7320302282261,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "Cameron Brate",
+            "opposition": "@Ari",
+            "position": "TE",
+            "projectedPoints": 22.7321750296159,
+            "salary": 3900
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 346.5948681411615,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Austin Seferian-Jenkins",
+            "opposition": "NE",
+            "position": "TE",
+            "projectedPoints": 25.68765487877862,
+            "salary": 4300
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Cooper Kupp",
+            "opposition": "@Jax",
+            "position": "WR",
+            "projectedPoints": 13.210921975302035,
+            "salary": 4000
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 346.54817722485797,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Michael Crabtree",
+            "opposition": "LAC",
+            "position": "WR",
+            "projectedPoints": 28.522814052235322,
+            "salary": 5800
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 346.3649047597835,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "Allen Hurns",
+            "opposition": "LA",
+            "position": "WR",
+            "projectedPoints": 15.46192042727344,
+            "salary": 4300
+        }
+    },
+    {
+        "DST": {
+            "name": "GB",
+            "opposition": "@Min",
+            "position": "DST",
+            "projectedPoints": 7.194444444444446,
+            "salary": 2800
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 346.2653057718963,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49600,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 346.1917178431959,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49500,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Allen Hurns",
+            "opposition": "LA",
+            "position": "WR",
+            "projectedPoints": 15.46192042727344,
+            "salary": 4300
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 345.89038674397017,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "Cameron Brate",
+            "opposition": "@Ari",
+            "position": "TE",
+            "projectedPoints": 22.7321750296159,
+            "salary": 3900
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Allen Hurns",
+            "opposition": "LA",
+            "position": "WR",
+            "projectedPoints": 15.46192042727344,
+            "salary": 4300
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 345.79625669675744,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49800,
+        "TE": {
+            "name": "George Kittle",
+            "opposition": "@Was",
+            "position": "TE",
+            "projectedPoints": 17.846401498147237,
+            "salary": 3400
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Det",
+            "opposition": "@NO",
+            "position": "DST",
+            "projectedPoints": 9.127777777777778,
+            "salary": 2400
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 345.52601587089464,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49700,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "Allen Hurns",
+            "opposition": "LA",
+            "position": "WR",
+            "projectedPoints": 15.46192042727344,
+            "salary": 4300
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 345.5051238369861,
+        "QB": {
+            "name": "Deshaun Watson",
+            "opposition": "Cle",
+            "position": "QB",
+            "projectedPoints": 47.95729964791257,
+            "salary": 6700
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 345.50512377250504,
+        "QB": {
+            "name": "Deshaun Watson",
+            "opposition": "Cle",
+            "position": "QB",
+            "projectedPoints": 47.95729964791257,
+            "salary": 6700
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 345.50512377250465,
+        "QB": {
+            "name": "Deshaun Watson",
+            "opposition": "Cle",
+            "position": "QB",
+            "projectedPoints": 47.95729964791257,
+            "salary": 6700
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "David Njoku",
+            "opposition": "@Hou",
+            "position": "TE",
+            "projectedPoints": 15.282589297809889,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR2": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    },
+    {
+        "DST": {
+            "name": "Pit",
+            "opposition": "@KC",
+            "position": "DST",
+            "projectedPoints": 9.966666666666667,
+            "salary": 2600
+        },
+        "FLEX": {
+            "name": "Chris Thompson",
+            "opposition": "SF",
+            "position": "RB",
+            "projectedPoints": 35.97063719862227,
+            "salary": 5000
+        },
+        "Points": 345.48174856506205,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 49900,
+        "TE": {
+            "name": "Austin Hooper",
+            "opposition": "Mia",
+            "position": "TE",
+            "projectedPoints": 17.53189336645186,
+            "salary": 3500
+        },
+        "WR1": {
+            "name": "Larry Fitzgerald",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 37.718036016429274,
+            "salary": 6800
+        },
+        "WR2": {
+            "name": "Will Fuller",
+            "opposition": "Cle",
+            "position": "WR",
+            "projectedPoints": 30.17327593260724,
+            "salary": 5200
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 345.4540739341415,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        },
+        "WR2": {
+            "name": "DeSean Jackson",
+            "opposition": "@Ari",
+            "position": "WR",
+            "projectedPoints": 20.643216427955018,
+            "salary": 5800
+        },
+        "WR3": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        }
+    },
+    {
+        "DST": {
+            "name": "Mia",
+            "opposition": "@Atl",
+            "position": "DST",
+            "projectedPoints": 8.020833333333332,
+            "salary": 2000
+        },
+        "FLEX": {
+            "name": "Leonard Fournette",
+            "opposition": "LA",
+            "position": "RB",
+            "projectedPoints": 55.5541295081526,
+            "salary": 8000
+        },
+        "Points": 345.4540738963833,
+        "QB": {
+            "name": "Carson Palmer",
+            "opposition": "TB",
+            "position": "QB",
+            "projectedPoints": 51.631225719225725,
+            "salary": 6100
+        },
+        "RB1": {
+            "name": "Kareem Hunt",
+            "opposition": "Pit",
+            "position": "RB",
+            "projectedPoints": 73.75595556763398,
+            "salary": 8200
+        },
+        "RB2": {
+            "name": "Todd Gurley",
+            "opposition": "@Jax",
+            "position": "RB",
+            "projectedPoints": 62.533888835279996,
+            "salary": 7700
+        },
+        "Spent": 50000,
+        "TE": {
+            "name": "C.J. Fiedorowicz",
+            "opposition": "Cle",
+            "position": "TE",
+            "projectedPoints": 21.087672795508322,
+            "salary": 3000
+        },
+        "WR1": {
+            "name": "Jermaine Kearse",
+            "opposition": "NE",
+            "position": "WR",
+            "projectedPoints": 26.200169248929715,
+            "salary": 4800
+        },
+        "WR2": {
+            "name": "DeSean Jackson",
+            "opposition": "@Ari",
+            "position": "WR",
+            "projectedPoints": 20.643216427955018,
+            "salary": 5800
+        },
+        "WR3": {
+            "name": "J.J. Nelson",
+            "opposition": "TB",
+            "position": "WR",
+            "projectedPoints": 26.026982332341863,
+            "salary": 4400
+        }
+    }
+]

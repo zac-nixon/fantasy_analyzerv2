@@ -124,7 +124,6 @@ func main() {
 	sort.Sort(PlayersPoints(WRs))
 	sort.Sort(PlayersPoints(TEs))
 	sort.Sort(PlayersPoints(DSTs))
-	DSTs = DSTs[0:8]
 
 	cores := runtime.NumCPU()
 	wgs := make([]sync.WaitGroup, cores)
@@ -201,18 +200,18 @@ func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
 						if !added {
 							continue
 						}
-						roster.popPlayer(WR, 2)
-						for wr3I, wr3 := range WRs[wr2I+1:] { // wr3
-							if wr3.team == wr1.team || wr3.team == wr2.team {
-								continue
-							}
-							added := roster.addPlayer(wr3, 2, false)
+						roster.popPlayer(TE, 0)
+						for _, te := range TEs { // te
+							added := roster.addPlayer(te, 0, false)
 							if !added {
 								continue
 							}
-							roster.popPlayer(TE, 0)
-							for _, te := range TEs { // te
-								added := roster.addPlayer(te, 0, false)
+							roster.popPlayer(WR, 2)
+							for wr3I, wr3 := range WRs[wr2I+1:] { // wr3
+								if wr3.team == wr1.team || wr3.team == wr2.team {
+									continue
+								}
+								added := roster.addPlayer(wr3, 2, false)
 								if !added {
 									continue
 								}
@@ -225,10 +224,10 @@ func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
 									addFLEX(roster, RBs[rb2I+1:], WRs[wr3I+1:], &candidates)
 									roster.popPlayer(DST, 0)
 								} // dst loop
-								roster.popPlayer(TE, 0)
-							} // te loop
-							roster.popPlayer(WR, 2)
-						} // wr 3 loop
+								roster.popPlayer(WR, 2)
+							} // wr 3 loop
+							roster.popPlayer(TE, 0)
+						} // te loop
 						roster.popPlayer(WR, 1)
 					} // wr 2 loop
 					roster.popPlayer(RB, 1)
