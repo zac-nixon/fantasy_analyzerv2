@@ -126,6 +126,7 @@ func adjustQBs(QBs []*Player, medianPassAttempts, medianPointsAllowed, medianPas
 		attemptMultipler := q.passingStats.passingAttempts / medianPassAttempts
 		finalMultipler := ((defMultipler + attemptMultipler) / 3) + (opponentPointsAllowed / medianPointsAllowed)
 		q.ProjectedPoints *= finalMultipler
+		q.ProjectedPoints -= ((q.fumbles + q.passingStats.passingInterceptions) * 1.5)
 	}
 }
 
