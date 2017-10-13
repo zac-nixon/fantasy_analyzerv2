@@ -78,7 +78,7 @@ func main() {
 	TEsTemp = make([]*Player, 0)
 
 	for _, q := range QBs {
-		if q.ProjectedPoints >= 15 {
+		if q.ProjectedPoints >= 10 {
 			QBsTemp = append(QBsTemp, q)
 			//fmt.Printf("%s - %f\n", q.Name, q.ProjectedPoints)
 		}
@@ -86,21 +86,21 @@ func main() {
 
 	//fmt.Printf("----\n")
 	for _, r := range RBs {
-		if r.ProjectedPoints >= 5 {
+		if r.ProjectedPoints >= 4 {
 			RBsTemp = append(RBsTemp, r)
 			//fmt.Printf("%s - %f\n", r.Name, r.ProjectedPoints)
 		}
 	}
 	//fmt.Printf("----\n")
 	for _, w := range WRs {
-		if w.ProjectedPoints >= 8 {
+		if w.ProjectedPoints >= 4 {
 			WRsTemp = append(WRsTemp, w)
 			//fmt.Printf("%s - %f\n", w.Name, w.ProjectedPoints)
 		}
 	}
 	//fmt.Printf("----\n")
 	for _, t := range TEs {
-		if t.ProjectedPoints >= 6 {
+		if t.ProjectedPoints >= 3 {
 			TEsTemp = append(TEsTemp, t)
 			//fmt.Printf("%s - %f\n", t.Name, t.ProjectedPoints)
 		}
@@ -171,16 +171,19 @@ func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
 		}
 		roster := &Roster{}
 		roster.addPlayer(q, 0, false)
+		roster.popPlayer(WR, 0)
 		for wr1I, wr1 := range WRs { // wr1
 			added := roster.addPlayer(wr1, 0, false)
 			if !added {
 				continue
 			}
+			roster.popPlayer(RB, 0)
 			for rb1I, rb1 := range RBs { // rb1
 				added := roster.addPlayer(rb1, 0, false)
 				if !added {
 					continue
 				}
+				roster.popPlayer(RB, 1)
 				for rb2I, rb2 := range RBs[rb1I+1:] { //rb2
 					if rb2.team == rb1.team {
 						continue
@@ -189,6 +192,7 @@ func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
 					if !added {
 						continue
 					}
+					roster.popPlayer(WR, 1)
 					for wr2I, wr2 := range WRs[wr1I+1:] { // wr2
 						if wr2.team == wr1.team {
 							continue
@@ -197,6 +201,7 @@ func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
 						if !added {
 							continue
 						}
+						roster.popPlayer(WR, 2)
 						for wr3I, wr3 := range WRs[wr2I+1:] { // wr3
 							if wr3.team == wr1.team || wr3.team == wr2.team {
 								continue
@@ -205,13 +210,15 @@ func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
 							if !added {
 								continue
 							}
+							roster.popPlayer(TE, 0)
 							for _, te := range TEs { // te
 								added := roster.addPlayer(te, 0, false)
 								if !added {
 									continue
 								}
 								for _, dst := range DSTs { // dst
-									added := roster.addPlayer(dst, 1, false)
+									roster.popPlayer(DST, 0)
+									added := roster.addPlayer(dst, 0, false)
 									if !added {
 										continue
 									}
@@ -224,9 +231,9 @@ func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
 						} // wr 3 loop
 						roster.popPlayer(WR, 1)
 					} // wr 2 loop
-					roster.popPlayer(RB, 2)
+					roster.popPlayer(RB, 1)
 				} // rb 2 loop
-				roster.popPlayer(RB, 1)
+				roster.popPlayer(RB, 0)
 			} // rb 1 loop
 			roster.popPlayer(WR, 0)
 		} //wr 1 loop
@@ -286,7 +293,7 @@ func addFLEX(roster *Roster, RBs, WRs []*Player, candidates *Rosters) {
 			f = rb
 			rbI++
 		}
-
+		roster.popPlayer(FLEX, 0)
 		if roster.addPlayer(f, 0, true) {
 			if len(*candidates) < 100 || roster.Points >= (*candidates)[len(*candidates)-1].Points {
 				cpy := roster.Copy()

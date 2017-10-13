@@ -1,13 +1,7 @@
 package main
 
 const (
-	QBLIMIT   = 1
-	RBLIMIT   = 2
-	WRLIMIT   = 3
-	TELIMIT   = 1
-	DSTLIMIT  = 1
-	FLEXLIMIT = 1
-	CAP       = 50000
+	CAP = 50000
 )
 
 type Roster struct {
@@ -90,10 +84,6 @@ func (r *Roster) addPlayer(p *Player, index int, flex bool) bool {
 
 func (r *Roster) popPlayer(position string, index int) {
 	var p *Player
-	if position == FLEX {
-		p = r.FLEX
-		r.FLEX = nil
-	}
 
 	if position == QB {
 		p = r.QB
@@ -131,6 +121,14 @@ func (r *Roster) popPlayer(position string, index int) {
 	if position == DST {
 		p = r.DST
 		r.DST = nil
+	}
+
+	if position == FLEX {
+		p = r.FLEX
+		r.FLEX = nil
+	}
+	if p == nil {
+		return
 	}
 	r.Points -= p.ProjectedPoints
 	r.Spent -= p.Salary
