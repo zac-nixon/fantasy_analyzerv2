@@ -124,7 +124,7 @@ func adjustQBs(QBs []*Player, medianPassAttempts, medianPointsAllowed, medianPas
 		opponentPointsAllowed := q.oppositeObject.defenseStats.pointsToQB
 		defMultipler := opponentPassAllowed / medianPassAllowed
 		attemptMultipler := q.passingStats.passingAttempts / medianPassAttempts
-		finalMultipler := ((defMultipler + attemptMultipler) / 2) + (opponentPointsAllowed / medianPointsAllowed)
+		finalMultipler := ((defMultipler + attemptMultipler) / 3) + (opponentPointsAllowed / medianPointsAllowed)
 		q.ProjectedPoints *= finalMultipler
 	}
 }
@@ -135,7 +135,7 @@ func adjustRBs(RBs []*Player, medianRushAllowed, medianPointsAllowed, medianRush
 		defMultipler := opponentRushAllowed / medianRushAllowed
 		attemptMultipler := r.rushingStats.rushingAttempts / medianRushAttempts
 		opponentPointsAllowed := r.oppositeObject.defenseStats.pointsToRB
-		finalMultipler := ((defMultipler + attemptMultipler) / 2) + (opponentPointsAllowed / medianPointsAllowed)
+		finalMultipler := ((defMultipler + attemptMultipler) / 3) + (opponentPointsAllowed / medianPointsAllowed)
 		r.ProjectedPoints *= finalMultipler
 	}
 }
@@ -146,7 +146,7 @@ func adjustWRs(WRs []*Player, medianPassAllowed, medianPointsAllowed, medianRece
 		opponentPointsAllowed := p.oppositeObject.defenseStats.pointsToWR
 		defMultipler := opponentPassAllowed / medianPassAllowed
 		attemptMultipler := p.receivingStats.Receptions / medianReceptions
-		finalMultipler := ((defMultipler + attemptMultipler) / 2) + (opponentPointsAllowed / medianPointsAllowed)
+		finalMultipler := ((defMultipler + attemptMultipler) / 3) + (opponentPointsAllowed / medianPointsAllowed)
 		p.ProjectedPoints *= finalMultipler
 	}
 }
@@ -157,13 +157,13 @@ func adjustTEs(TEs []*Player, medianPassAllowed, medianPointsAllowed, medianRece
 		defMultipler := opponentPassAllowed / medianPassAllowed
 		opponentPointsAllowed := p.oppositeObject.defenseStats.pointsToTE
 		attemptMultipler := p.receivingStats.Receptions / medianReceptions
-		finalMultipler := ((defMultipler + attemptMultipler) / 2) + (opponentPointsAllowed / medianPointsAllowed)
+		finalMultipler := ((defMultipler + attemptMultipler) / 3) + (opponentPointsAllowed / medianPointsAllowed)
 		p.ProjectedPoints *= finalMultipler
 	}
 }
 
 func adjustDSTs(DSTs []*Player, medianPointsAllowed float64) {
 	for _, d := range DSTs {
-		d.ProjectedPoints *= (d.defenseStats.opposingOffensePoints / medianPointsAllowed)
+		d.ProjectedPoints *= ((d.defenseStats.opposingOffensePoints / medianPointsAllowed) * 2)
 	}
 }
