@@ -143,12 +143,13 @@ func main() {
 
 	master := make(Rosters, 0)
 	for i := 0; i < cores; i++ {
-		master = append(master, rosters[i]...)
+		sort.Sort(rosters[i])
+		master = append(master, rosters[i][0:20]...)
 	}
 
 	sort.Sort(master)
-	if len(master) > 100 {
-		master = master[:100]
+	if len(master) > 200 {
+		master = master[:200]
 	}
 
 	b, _ := json.Marshal(master)
@@ -215,11 +216,16 @@ func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
 								if !added {
 									continue
 								}
+								count := 0
 								for _, dst := range DSTs { // dst
 									roster.popPlayer(DST, 0)
+									if count > 2 {
+										break
+									}
 									added := roster.addPlayer(dst, 0, false)
 									if !added {
 										continue
+										count += 1
 									}
 									addFLEX(roster, RBs[rb2I+1:], WRs[wr3I+1:], &candidates)
 									roster.popPlayer(DST, 0)
