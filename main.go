@@ -144,15 +144,27 @@ func main() {
 	master := make(Rosters, 0)
 	for i := 0; i < cores; i++ {
 		sort.Sort(rosters[i])
-		master = append(master, rosters[i][0:20]...)
+		master = append(master, rosters[i]...)
 	}
 
-	sort.Sort(master)
-	if len(master) > 200 {
-		master = master[:200]
+	rostersNoDupes := make(Rosters, 0)
+	for _, roster := range master {
+		found := false
+		for _, inner := range rostersNoDupes {
+			if inner.Equal(roster) {
+				found = true
+				break
+			}
+		}
+		if !found {
+			rostersNoDupes = append(rostersNoDupes, roster)
+		}
 	}
-
-	b, _ := json.Marshal(master)
+	sort.Sort(rostersNoDupes)
+	if len(rostersNoDupes) > 100 {
+		rostersNoDupes = rostersNoDupes[:100]
+	}
+	b, _ := json.MarshalIndent(rostersNoDupes, "", "\t")
 	fmt.Printf("%s\n", string(b))
 }
 

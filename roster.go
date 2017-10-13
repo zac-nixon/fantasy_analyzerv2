@@ -150,3 +150,10 @@ func (r *Roster) Copy() *Roster {
 	rosterCopy.FLEX = r.FLEX
 	return rosterCopy
 }
+
+func (r *Roster) Equal(o *Roster) bool {
+	if o == nil {
+		return false
+	}
+	return o.QB == r.QB && o.RB1 == r.RB1 && o.RB2 == r.RB2 && o.WR1 == r.WR1 && o.WR2 == r.WR2 && o.WR3 == r.WR3 && o.TE == r.TE && o.DST == r.DST && o.FLEX == r.FLEX
+}
