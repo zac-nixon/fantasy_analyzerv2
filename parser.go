@@ -9,7 +9,42 @@ import (
 
 type Parser struct{}
 
-var BlackList []string = []string{"TB", "NE", "KC", "Hou", "Min", "Chi"}
+var BlackList []string = []string{"Phi", "Car", "NYG", "Den", "Ind", "Ten", "Buf", "Cin", "Dal", "Sea"}
+
+var TeamMap map[string]string = map[string]string{
+	"Jacksonville":  "Jax",
+	"Denver":        "Den",
+	"Minnesota":     "Min",
+	"Kansas City":   "KC",
+	"Arizona":       "Ari",
+	"Philadelphia":  "Phi",
+	"Buffalo":       "Buf",
+	"Cleveland":     "Cle",
+	"Seattle":       "Sea",
+	"Miami":         "Mia",
+	"Indianapolis":  "Ind",
+	"Cincinnati":    "Cin",
+	"Houston":       "Hou",
+	"Tennessee":     "Ten",
+	"Carolina":      "Car",
+	"Washington":    "Was",
+	"Chicago":       "Chi",
+	"Tampa Bay":     "TB",
+	"Oakland":       "Oak",
+	"Green Bay":     "GB",
+	"Detroit":       "Det",
+	"Baltimore":     "Bal",
+	"Giants":        "NYG",
+	"Atlanta":       "Atl",
+	"Dallas":        "Dal",
+	"Rams":          "LA",
+	"Chargers":      "LAC",
+	"Jets":          "NYJ",
+	"New Orleans":   "NO",
+	"San Francisco": "SF",
+	"Pittsburgh":    "Pit",
+	"New England":   "NE",
+}
 
 func (p *Parser) Parse() (QBs []*Player, RBs []*Player, WRs []*Player, TEs []*Player, DSTs []*Player) {
 	DSTs, err := p.parseDST()
@@ -344,10 +379,148 @@ func (p *Parser) parseDST() (DSTs []*Player, err error) {
 		return
 	}
 
+	def_vs_qb_file, err := os.Open("./csv/def_vs_qb.csv")
+
+	if err != nil {
+		return
+	}
+	defer def_vs_qb_file.Close()
+
+	def_vs_rb_file, err := os.Open("./csv/def_vs_rb.csv")
+
+	if err != nil {
+		return
+	}
+	defer def_vs_rb_file.Close()
+
+	def_vs_wr_file, err := os.Open("./csv/def_vs_wr.csv")
+
+	if err != nil {
+		return
+	}
+	defer def_vs_wr_file.Close()
+
+	def_vs_te_file, err := os.Open("./csv/def_vs_te.csv")
+
+	if err != nil {
+		return
+	}
+	defer def_vs_te_file.Close()
+
+	offense_rank_file, err := os.Open("./csv/offense_rank.csv")
+
+	if err != nil {
+		return
+	}
+	defer offense_rank_file.Close()
+
+	def_vs_qb := make(map[string]float64)
+	def_vs_wr := make(map[string]float64)
+	def_vs_rb := make(map[string]float64)
+	def_vs_te := make(map[string]float64)
+	offense_rank := make(map[string]float64)
+
+	r2 := csv.NewReader(def_vs_qb_file)
+
+	records2, err := r2.ReadAll()
+	if err != nil {
+		return
+	}
+
+	for _, record := range records2 {
+		for k, v := range TeamMap {
+			if strings.Contains(record[1], k) {
+				record[1] = v
+				break
+			}
+		}
+		f, _ := strconv.ParseFloat(strings.TrimSpace(strings.Replace(record[4], ",", "", -1)), 64)
+		def_vs_qb[record[1]] = float64(f)
+	}
+
+	r2 = csv.NewReader(def_vs_wr_file)
+
+	records2, err = r2.ReadAll()
+	if err != nil {
+		return
+	}
+
+	for _, record := range records2 {
+		for k, v := range TeamMap {
+			if strings.Contains(record[1], k) {
+				record[1] = v
+				break
+			}
+		}
+		f, _ := strconv.ParseFloat(strings.TrimSpace(strings.Replace(record[4], ",", "", -1)), 64)
+		def_vs_wr[record[1]] = float64(f)
+	}
+
+	r2 = csv.NewReader(def_vs_rb_file)
+
+	records2, err = r2.ReadAll()
+	if err != nil {
+		return
+	}
+
+	for _, record := range records2 {
+		for k, v := range TeamMap {
+			if strings.Contains(record[1], k) {
+				record[1] = v
+				break
+			}
+		}
+		f, _ := strconv.ParseFloat(strings.TrimSpace(strings.Replace(record[4], ",", "", -1)), 64)
+		def_vs_rb[record[1]] = float64(f)
+	}
+
+	r2 = csv.NewReader(def_vs_te_file)
+
+	records2, err = r2.ReadAll()
+	if err != nil {
+		return
+	}
+
+	for _, record := range records2 {
+		for k, v := range TeamMap {
+			if strings.Contains(record[1], k) {
+				record[1] = v
+				break
+			}
+		}
+		f, _ := strconv.ParseFloat(strings.TrimSpace(strings.Replace(record[4], ",", "", -1)), 64)
+		def_vs_te[record[1]] = float64(f)
+	}
+
+	r2 = csv.NewReader(offense_rank_file)
+	records2, err = r2.ReadAll()
+	if err != nil {
+		return
+	}
+
+	for _, record := range records2 {
+		for k, v := range TeamMap {
+			if strings.Contains(record[1], k) {
+				record[1] = v
+				break
+			}
+		}
+		f, _ := strconv.ParseFloat(strings.TrimSpace(strings.Replace(record[4], ",", "", -1)), 64)
+		offense_rank[record[1]] = float64(f)
+	}
+
 	for _, record := range records {
 		player := p.parseBasics(record, 15, []*Player{})
 		if player == nil {
 			continue
+		}
+
+		for k, v := range TeamMap {
+			if strings.Contains(player.Name, k) {
+				player.Name = v
+
+				break
+			}
 		}
 
 		var sacks, interceptions, fumbles, safeties, touchdowns, pointsAllowed, passyd, rushyd float64
@@ -393,15 +566,21 @@ func (p *Parser) parseDST() (DSTs []*Player, err error) {
 		}
 
 		player.defenseStats = &DefenseStats{
-			sacks:            sacks / player.games,
-			safeties:         safeties / player.games,
-			touchdowns:       touchdowns / player.games,
-			pointsAllowed:    pointsAllowed / player.games,
-			passYardsAllowed: passyd / player.games,
-			rushYardsAllowed: rushyd / player.games,
-			interceptions:    interceptions / player.games,
-			fumbleRecovery:   fumbles / player.games,
+			sacks:                 sacks / player.games,
+			safeties:              safeties / player.games,
+			touchdowns:            touchdowns / player.games,
+			pointsAllowed:         pointsAllowed / player.games,
+			passYardsAllowed:      passyd / player.games,
+			rushYardsAllowed:      rushyd / player.games,
+			interceptions:         interceptions / player.games,
+			fumbleRecovery:        fumbles / player.games,
+			pointsToQB:            def_vs_qb[player.Name],
+			pointsToRB:            def_vs_rb[player.Name],
+			pointsToWR:            def_vs_wr[player.Name],
+			pointsToTE:            def_vs_te[player.Name],
+			opposingOffensePoints: offense_rank[player.Name],
 		}
+
 		DSTs = append(DSTs, player)
 	}
 	return

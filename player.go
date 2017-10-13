@@ -38,6 +38,13 @@ type DefenseStats struct {
 	pointsAllowed    float64
 	passYardsAllowed float64
 	rushYardsAllowed float64
+
+	pointsToQB float64
+	pointsToRB float64
+	pointsToWR float64
+	pointsToTE float64
+
+	opposingOffensePoints float64
 }
 
 type Player struct {

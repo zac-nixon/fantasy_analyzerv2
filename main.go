@@ -8,6 +8,9 @@ import (
 	"sync"
 )
 
+var globalIndex int
+var mutex sync.Mutex
+
 func main() {
 	p := Parser{}
 
@@ -37,7 +40,6 @@ func main() {
 	RBsTemp := make([]*Player, 0)
 	WRsTemp := make([]*Player, 0)
 	TEsTemp := make([]*Player, 0)
-	DSTsTemp := make([]*Player, 0)
 
 	for _, q := range QBs {
 		if q.ProjectedPoints >= 15 {
@@ -63,17 +65,10 @@ func main() {
 		}
 	}
 
-	for _, d := range DSTs {
-		if d.Salary >= 2500 {
-			DSTsTemp = append(DSTsTemp, d)
-		}
-	}
-
 	QBs = QBsTemp
 	RBs = RBsTemp
 	WRs = WRsTemp
 	TEs = TEsTemp
-	DSTs = DSTsTemp
 
 	AdjustPlayers(QBs, RBs, WRs, TEs, DSTs)
 
@@ -81,28 +76,29 @@ func main() {
 	RBsTemp = make([]*Player, 0)
 	WRsTemp = make([]*Player, 0)
 	TEsTemp = make([]*Player, 0)
-	DSTsTemp = make([]*Player, 0)
 
 	for _, q := range QBs {
 		if q.ProjectedPoints >= 15 {
 			QBsTemp = append(QBsTemp, q)
+			//fmt.Printf("%s - %f\n", q.Name, q.ProjectedPoints)
 		}
 	}
 
+	//fmt.Printf("----\n")
 	for _, r := range RBs {
 		if r.ProjectedPoints >= 5 {
 			RBsTemp = append(RBsTemp, r)
 			//fmt.Printf("%s - %f\n", r.Name, r.ProjectedPoints)
 		}
 	}
-
+	//fmt.Printf("----\n")
 	for _, w := range WRs {
 		if w.ProjectedPoints >= 8 {
 			WRsTemp = append(WRsTemp, w)
 			//fmt.Printf("%s - %f\n", w.Name, w.ProjectedPoints)
 		}
 	}
-
+	//fmt.Printf("----\n")
 	for _, t := range TEs {
 		if t.ProjectedPoints >= 6 {
 			TEsTemp = append(TEsTemp, t)
@@ -128,12 +124,11 @@ func main() {
 	sort.Sort(PlayersPoints(WRs))
 	sort.Sort(PlayersPoints(TEs))
 	sort.Sort(PlayersPoints(DSTs))
+	DSTs = DSTs[0:8]
 
-	cores := runtime.NumCPU() - 1
+	cores := runtime.NumCPU()
 	wgs := make([]sync.WaitGroup, cores)
 	rosters := make([]Rosters, cores)
-
-	QBs = QBs[0:cores]
 
 	for i := 0; i < cores; i++ {
 		wgs[i].Add(1)
@@ -162,66 +157,85 @@ func main() {
 }
 
 func create(pid int, QBs, RBs, WRs, TEs, DSTs []*Player) Rosters {
-	candidates := make(Rosters, 0)
-
-	for i, _ := range QBs {
-		if i+pid >= len(QBs) {
-			if len(candidates) > 100 {
-				candidates = candidates[:100]
-			}
+	candidates := make(Rosters, 0, 100000)
+	var q *Player
+	for true {
+		mutex.Lock()
+		if globalIndex < len(QBs) {
+			q = QBs[globalIndex]
+			globalIndex += 1
+			mutex.Unlock()
+		} else {
+			mutex.Unlock()
 			break
 		}
-		q := QBs[i+pid]
 		roster := &Roster{}
-		roster.addPlayer(q, false)
-		addWR(roster, RBs, WRs, TEs, DSTs, &candidates)
-		if len(candidates) > 100 {
-			sort.Sort(candidates)
-			candidates = candidates[:100]
-		}
+		roster.addPlayer(q, 0, false)
+		for wr1I, wr1 := range WRs { // wr1
+			added := roster.addPlayer(wr1, 0, false)
+			if !added {
+				continue
+			}
+			for rb1I, rb1 := range RBs { // rb1
+				added := roster.addPlayer(rb1, 0, false)
+				if !added {
+					continue
+				}
+				for rb2I, rb2 := range RBs[rb1I+1:] { //rb2
+					if rb2.team == rb1.team {
+						continue
+					}
+					added := roster.addPlayer(rb2, 1, false)
+					if !added {
+						continue
+					}
+					for wr2I, wr2 := range WRs[wr1I+1:] { // wr2
+						if wr2.team == wr1.team {
+							continue
+						}
+						added := roster.addPlayer(wr2, 1, false)
+						if !added {
+							continue
+						}
+						for wr3I, wr3 := range WRs[wr2I+1:] { // wr3
+							if wr3.team == wr1.team || wr3.team == wr2.team {
+								continue
+							}
+							added := roster.addPlayer(wr3, 2, false)
+							if !added {
+								continue
+							}
+							for _, te := range TEs { // te
+								added := roster.addPlayer(te, 0, false)
+								if !added {
+									continue
+								}
+								for _, dst := range DSTs { // dst
+									added := roster.addPlayer(dst, 1, false)
+									if !added {
+										continue
+									}
+									addFLEX(roster, RBs[rb2I+1:], WRs[wr3I+1:], &candidates)
+									roster.popPlayer(DST, 0)
+								} // dst loop
+								roster.popPlayer(TE, 0)
+							} // te loop
+							roster.popPlayer(WR, 2)
+						} // wr 3 loop
+						roster.popPlayer(WR, 1)
+					} // wr 2 loop
+					roster.popPlayer(RB, 2)
+				} // rb 2 loop
+				roster.popPlayer(RB, 1)
+			} // rb 1 loop
+			roster.popPlayer(WR, 0)
+		} //wr 1 loop
 	}
 
 	return candidates
 }
 
-func addWR(roster *Roster, RBs, WRs, TEs, DSTs []*Player, candidates *Rosters) {
-	for i, wr := range WRs {
-		if roster.addPlayer(wr, false) {
-			if len(roster.WRs) >= WRLIMIT {
-				addRB(roster, RBs, WRs[i+1:], TEs, DSTs, candidates)
-			} else {
-				addWR(roster, RBs, WRs[i+1:], TEs, DSTs, candidates)
-			}
-
-			roster.popPlayer(WR)
-		}
-	}
-}
-
-func addRB(roster *Roster, RBs, WRs, TEs, DSTs []*Player, candidates *Rosters) {
-	for i, rb := range RBs {
-		if roster.addPlayer(rb, false) {
-			if len(roster.RBs) >= RBLIMIT {
-				addTE(roster, RBs[i+1:], WRs, TEs, DSTs, candidates)
-			} else {
-				addRB(roster, RBs[i+1:], WRs, TEs, DSTs, candidates)
-			}
-			roster.popPlayer(RB)
-		}
-	}
-}
-
-func addTE(roster *Roster, RBs, WRs, TEs, DSTs []*Player, candidates *Rosters) {
-	for i, te := range TEs {
-		if roster.addPlayer(te, false) {
-			addFLEX(roster, RBs, WRs, TEs[i+1:], DSTs, candidates)
-			roster.popPlayer(TE)
-		}
-	}
-}
-
-func addFLEX(roster *Roster, RBs, WRs, TEs, DSTs []*Player, candidates *Rosters) {
-	flexOptions := make([]*Player, 0)
+func addFLEX(roster *Roster, RBs, WRs []*Player, candidates *Rosters) {
 	var l int
 	if len(RBs) > len(WRs) {
 		l = len(WRs)
@@ -233,56 +247,57 @@ func addFLEX(roster *Roster, RBs, WRs, TEs, DSTs []*Player, candidates *Rosters)
 	for i := 0; i < l; i++ {
 		var f *Player
 		var rb *Player
+		for rbI < len(RBs) && (RBs[rbI].team == roster.RB1.team || RBs[rbI].team == roster.RB2.team) {
+			if rbI >= len(RBs) {
+				break
+			}
+			rbI += 1
+		}
+
+		for wrI < len(WRs) && (WRs[wrI].team == roster.WR1.team || WRs[wrI].team == roster.WR2.team || WRs[wrI].team == roster.WR3.team) {
+			if wrI >= len(WRs) {
+				break
+			}
+			wrI += 1
+		}
+
 		if rbI < len(RBs) {
-			rb = RBs[i]
+			rb = RBs[rbI]
 		}
 
 		var wr *Player
 		if wrI < len(WRs) {
-			wr = WRs[i]
+			wr = WRs[wrI]
 		}
 
 		if rb == nil && wr == nil {
 			break
 		}
-
-		if wr == nil || wr.ProjectedPoints < rb.ProjectedPoints {
+		if wr == nil {
 			f = rb
 			rbI++
-		} else if rb == nil || rb.ProjectedPoints < wr.ProjectedPoints {
+		} else if rb == nil {
 			f = wr
 			wrI++
+		} else if rb.ProjectedPoints < wr.ProjectedPoints {
+			f = wr
+			wrI++
+		} else {
+			f = rb
+			rbI++
 		}
 
-		if roster.canAfford(f) {
-			flexOptions = append(flexOptions, f)
-		}
-
-		if len(flexOptions) >= 2 {
-			break
-		}
-	}
-
-	for _, p := range flexOptions {
-		if roster.addPlayer(p, true) {
-			addDST(roster, RBs, WRs, TEs, DSTs, candidates)
-			roster.popPlayer(FLEX)
-		}
-	}
-}
-
-func addDST(roster *Roster, RBs, WRs, TEs, DSTs []*Player, candidates *Rosters) {
-	for _, d := range DSTs {
-		if roster.addPlayer(d, false) {
-			if roster.Points >= 160 {
+		if roster.addPlayer(f, 0, true) {
+			if len(*candidates) < 100 || roster.Points >= (*candidates)[len(*candidates)-1].Points {
 				cpy := roster.Copy()
 				*candidates = append(*candidates, cpy)
 				sort.Sort(candidates)
-				if len(*candidates) > 100 {
+				if len(*candidates) > 100000 {
 					*candidates = (*candidates)[:100]
 				}
 			}
-			roster.popPlayer(DST)
+			roster.popPlayer(FLEX, 0)
+			break
 		}
 	}
 }
