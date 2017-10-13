@@ -155,5 +155,5 @@ func (r *Roster) Equal(o *Roster) bool {
 	if o == nil {
 		return false
 	}
-	return o.QB == r.QB && o.RB1 == r.RB1 && o.RB2 == r.RB2 && o.WR1 == r.WR1 && o.WR2 == r.WR2 && o.WR3 == r.WR3 && o.TE == r.TE && o.DST == r.DST && o.FLEX == r.FLEX
+	return o.QB.Name == r.QB.Name && o.RB1.Name == r.RB1.Name && o.RB2.Name == r.RB2.Name && o.WR1.Name == r.WR1.Name && o.WR2.Name == r.WR2.Name && o.WR3.Name == r.WR3.Name && o.TE.Name == r.TE.Name && o.DST.Name == r.DST.Name && o.FLEX.Name == r.FLEX.Name
 }
